@@ -23,10 +23,10 @@ This project is an AI-based security system that detects authorized and unauthor
 ## 🔐 Environment Variables
 
 Create a `.env` file and add your credentials:
-TWILIO_SID=your_twilio_sid
-TWILIO_TOKEN=your_twilio_token
-IMGBB_KEY=your_imgbb_api_key
-WHATSAPP_NUMBER=whatsapp:+91xxxxxxxxxx
+-TWILIO_SID=your_twilio_sid
+-TWILIO_TOKEN=your_twilio_token
+-IMGBB_KEY=your_imgbb_api_key
+-WHATSAPP_NUMBER=whatsapp:+91xxxxxxxxxx
 
 ## 👩‍💻 Author
 
